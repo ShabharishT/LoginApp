@@ -4,7 +4,7 @@ A simple login application implemented using React 17.0 with webpack
 
 Steps to open UI
 
-1. Download 'bundle.js' and 'index.html' from build folder.
+1. Download/Save 'bundle.js' and 'index.html' from build folder to a local folder.
 2. Open index.html in either Firefox or Chrome browser.
 3. You will find Login page to enter your credentials. 
 4. Enter valid username Ex: shabt@vmware.com
