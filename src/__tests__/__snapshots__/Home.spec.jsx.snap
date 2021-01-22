@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Component  Successful render 1`] = `
+<div>
+  Welcome 
+  !
+  <br />
+  <br />
+  <input
+    onClick={[Function]}
+    type="button"
+    value="Logout"
+  />
+</div>
+`;
